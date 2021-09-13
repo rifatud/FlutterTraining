@@ -1,0 +1,18 @@
+Command Prompt Usage:
+
+to explore the current directory: dir
+change directory: cd desktop
+go back to previous directory: cd ..
+to open visual studio: first go the desired folder where you want to save the project and write cmd. cm wil be opened and then write: code .
+create flutter project: open terminal in visual studio and write: flutter create project_demo(you can't use any cap letter or space)
+			cd demo_project
+			flutter run
+select device(click 1/2): 1
+........................................................................................................................................................
+CODE
+
+void main(): the app starts it's execution from here
+in build function we have to use MaterialApp : it helps in UI as it already has built in AppBar and other materials
+Inside MaterialApp's parameter we take Scaffold: is a widget which helps in design
+
+

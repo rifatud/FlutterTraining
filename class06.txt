@@ -1,0 +1,16 @@
+Text: textStyle
+Column
+Row
+Padding
+mainAxisAlignment:
+crossAxisAlignment:
+sizeBox: 
+
+
+
+
+
+
+...........................................................................
+follow medium articles
+in github readme file there is a language called Markdown language (markdown crash course)
